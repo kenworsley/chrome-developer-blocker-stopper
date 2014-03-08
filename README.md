@@ -3,7 +3,7 @@ chrome-developer-blocker-stopper
 
 A Chrome extension that stops sites from blocking the Developer Console.
 
-*Instructions*
+**Instructions**
 
 1. Download the zip of the extension: https://github.com/kenworsley/chrome-developer-blocker-stopper/archive/master.zip
 
